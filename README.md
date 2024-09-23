@@ -1,5 +1,5 @@
 
-![nah](https://tenor.com/bItJt.gif)
+![nah](https://tenor.com/view/rickroll-roll-rick-never-gonna-give-you-up-never-gonna-gif-22954713)
 
 <a href="https://github.com/ConstaX-only"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=ConstaX-only&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="SOKURI's github stats" /></a>
 
