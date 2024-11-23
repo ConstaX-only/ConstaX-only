@@ -1,7 +1,7 @@
 <!--
 ![nah](https://media2.giphy.com/media/g7GKcSzwQfugw/giphy.gif?cid=6c09b95268kr0q2x2gimans7otquv0r8hvrcug9e8kja2g2y&ep=v1_internal_gif_by_id&rid=giphy.gif)
 -->
-### Who is ConstaX Only?
+### Who is ConstaX only?
 
 - **🎮 Director of [ConstaX](https://discord.gg/crTDQncnWM)** | Leading the Future of Minecraft PvP Community
 - **💻 Code Enthusiast** | Crafting Solutions, One Line at a Time
