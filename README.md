@@ -5,6 +5,7 @@
 
 - **🎮 Director of [ConstaX](https://discord.gg/crTDQncnWM)** | Leading the Future of Minecraft PvP Community
 - **💻 Code Enthusiast** | Crafting Solutions, One Line at a Time
+
 - **🔧 Stability is My Foundation, Innovation is My Fuel**
 - **🚀 Breaking Limits, Always**
 
