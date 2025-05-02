@@ -3,10 +3,7 @@
 -->
 ### Who is ConstaX only?
 
-- **🎮 Director of [ConstaX](https://discord.gg/crTDQncnWM)**; Leading the Future of Minecraft PvP Community
-- **💻 Code Enthusiast**; Crafting Solutions, One Line at a Time.
-- **🔧 Stability is My Foundation, Innovation is My Fuel.**
-- **🚀 Breaking Limits, Always.**
+> Director of [ConstaX](https://discord.gg/crTDQncnWM). Committed to responsible development, player communication, and stable innovation.
 
 <a href="https://github.com/ConstaX-only"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=ConstaX-only&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="SOKURI's github stats" /></a>
 
